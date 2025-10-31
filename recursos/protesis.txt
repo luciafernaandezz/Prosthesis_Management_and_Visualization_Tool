@@ -1,0 +1,7 @@
+Cabeza,Nasal,23,42,25,2
+Cabeza,Auricular,140,150,60,35
+Parte superior,Brazo,80,17,19,20
+Parte superior,Codos,22,21,2,2
+Tren inferior,Cesta pelvica,80,60,35
+Tren inferior,Pierna,80,40,45,23
+Cabeza,Nasal,25,42,23,6
